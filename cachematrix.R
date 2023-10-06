@@ -1,3 +1,6 @@
+## Nicholas Prater
+## Programming Assignment 2
+
 # This function leverages the makeVector function written in the assingment
 # description, but is modified to create a special "matrix" 
 # object that can cache the inverse of a matrix.
